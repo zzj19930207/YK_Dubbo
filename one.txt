@@ -3,4 +3,5 @@
 22222222222
 
 IM ZZJ
-failure
+success
+true
